@@ -1,19 +1,19 @@
-com/example/webservicejpa/PersonRepository.java
- com.example.webservicejpa.PersonRepository
-com/example/webservicejpa/VehiculeRepository.java
- com.example.webservicejpa.VehiculeRepository
-com/example/webservicejpa/RentRepository.java
- com.example.webservicejpa.RentRepository
-com/example/webservicejpa/WebservicejpaApplication.java
- com.example.webservicejpa.WebservicejpaApplication
 com/example/webservicejpa/Rent.java
  com.example.webservicejpa.Rent
+com/example/webservicejpa/VehiculeRepository.java
+ com.example.webservicejpa.VehiculeRepository
 com/example/webservicejpa/PersonController.java
  com.example.webservicejpa.PersonController
 com/example/webservicejpa/Car.java
  com.example.webservicejpa.Car
+com/example/webservicejpa/PersonRepository.java
+ com.example.webservicejpa.PersonRepository
+com/example/webservicejpa/RentRepository.java
+ com.example.webservicejpa.RentRepository
 com/example/webservicejpa/VanController.java
  com.example.webservicejpa.VanController
+com/example/webservicejpa/WebservicejpaApplication.java
+ com.example.webservicejpa.WebservicejpaApplication
 com/example/webservicejpa/Person.java
  com.example.webservicejpa.Person
 com/example/webservicejpa/Vehicule.java
