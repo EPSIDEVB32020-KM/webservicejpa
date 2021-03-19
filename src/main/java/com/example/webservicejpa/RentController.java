@@ -128,7 +128,7 @@ public class RentController {
 
     //http://host.docker.internal:8089/rents/supprimer
 
-    //supprimer une rent a l aide d un fichier json
+    //supprimer une rent a l aide d un fichier jsonn
     @DeleteMapping(value = "/rents/supprimer")
     @ResponseBody
     public  void  Person_Delete(@RequestBody Rent rent_created) {
