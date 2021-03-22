@@ -26,6 +26,11 @@ public class CarController {
         carrepo.save(car1);
         carrepo.save(car2);
     }
+    //Retourne un String Hello World! dans la page web
+    @GetMapping("/hello")
+    public String HelloWorld() {
+        return "Hello World!";
+    }
     //Regarder tous les cars au lancement de l'application la bdd est vide alors tout d'abord créer une bdd à l aide
     @GetMapping("/cars")
     @ResponseBody
